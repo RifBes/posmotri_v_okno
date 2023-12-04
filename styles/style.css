@@ -52,9 +52,10 @@ ol {
   justify-content: center;
   align-items: flex-end;
   gap: 30px;
-  width: 1140px;
-  height: 534px;
-  margin: 0;
+  inline-size: 1140px;
+  block-size: 534px;
+  margin: auto;
+  /* margin-top: 133px; */
 }
 
 .content__details {
